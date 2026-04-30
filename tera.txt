@@ -1,1 +1,1 @@
-tera
+tera.txt に変更を加えたよ。
